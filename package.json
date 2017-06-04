@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1112145/CV-template.git"
+  },
+  "author": "dangkhoaicao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1112145/CV-template/issues"
+  },
+  "homepage": "https://github.com/1112145/CV-template#readme",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
